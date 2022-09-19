@@ -1,0 +1,9 @@
+type=script
+scriptType=python
+enabled=true
+id=spreadDb	
+name=SPREAD DB
+file_0=./ingest/sod_pre_load.py
+file_1=./createViews/views.py
+file_2=./egest/output.py
+file_3=./communicate/communicate_to_desk.py
